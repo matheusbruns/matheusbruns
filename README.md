@@ -1,4 +1,4 @@
-### Olá, me chamo Matheus, estudante de Engenharia de Software
+### Olá, me chamo Matheus, sou estudante de Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/matheusbruns">
