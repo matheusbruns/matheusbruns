@@ -1,7 +1,6 @@
 <h1 align="center"> Hello, I'm Matheus </h1>
 <h3 align="center"> Welcome to my Github </h3>
 
-
 <div align="center">
   <a href="https://github.com/matheusbruns">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=matheusbruns&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
@@ -24,6 +23,6 @@
   <a href="https://www.linkedin.com/in/matheus-rosa-bruns-111536208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/matheusbruns/matheusbruns/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
   
