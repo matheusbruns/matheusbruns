@@ -10,25 +10,25 @@
 <div style="display:  inline_block"  align="center"><br>
   
   <a href="https://docs.oracle.com/en/java/">
-    <img align="center"  alt="Matheus-Java"    height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center"  alt="Matheus-Java" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center"  alt="Matheus-Js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img align="center"  alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   </a>
   <a href="https://www.selenium.dev/">
-    <img align="center"  alt="Matheus-Selenium"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+    <img align="center"  alt="Matheus-Selenium" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   </a>
   <a href = "https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img align="center"  alt="Matheus-CSS3"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img align="center"  alt="Matheus-CSS3" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://pt-br.reactjs.org/">
     <img align="center"  alt="Matheus-ReactJs" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   </a>
   <a href = "https://www.mysql.com/">  
-    <img align="center"  alt="Matheus-MySQL"   height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center"  alt="Matheus-MySQL" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </a>
   <a href = "https://www.w3schools.com/c/">
-    <img align="center"  alt="Matheus-C"       height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center"  alt="Matheus-C" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </a>
 </div>
   
